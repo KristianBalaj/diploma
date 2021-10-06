@@ -2,4 +2,4 @@ classes = 43
 train  = diploma/train.txt
 valid  = diploma/test.txt
 names = diploma/obj.names
-backup = /mydrive/yolov3/backup
+backup = /content/drive/My Drive/yolov3/backup
