@@ -45,3 +45,4 @@
 44 = road narrows from left (danger)
 45 = road narrows from both sides (danger)
 46 = priority at next intersection, right side (danger)
+47 = speed limit 40 (prohibitory)
