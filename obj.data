@@ -1,4 +1,4 @@
-classes = 43
+classes = 48
 train  = diploma/train.txt
 valid  = diploma/test.txt
 names = diploma/obj.names
